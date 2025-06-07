@@ -18,7 +18,7 @@
 | Project | Description |
 |--------|-------------|
 | [ecommerce-store](https://github.com/Mustafa475-cyberkkr/ecommerce-store) | Online shop with product management and login system |
-| [school-dashboard](https://github.com/Mustafa475-cyberkkr/school-dashboard) | Admin system for managing students, teachers, and classes |
+| [school-dashboard](https://github.com/Mustafa475-cyberkkr/school-dashboard1) | Admin system for managing students, teachers, and classes |
 | [inventory-system](https://github.com/Mustafa475-cyberkkr/inventory-system) | Stock management system with reporting and alerts |
 
 ---
@@ -39,7 +39,7 @@
 - 💼 Upwork: *[your upwork link here]*  
 - 💻 Fiverr: *[your fiverr gig link here]*  
 - 🐦 Twitter (X): *@yourTwitter*  
-- 📧 Email: *your@email.com*
+- 📧 Email: *mmstfyalshhary@gmail.com*
 
 ---
 
